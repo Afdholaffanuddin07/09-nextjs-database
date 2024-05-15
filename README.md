@@ -24,3 +24,10 @@ Soal 4
 Menggabungkan tabel Customers dan Invoice
 
 ![Output](image/4.png)
+
+Soal 5
+
+Hasil dari deploy project
+
+![Output](image/5.png)
+https://09-nextjs-database-eta.vercel.app/
