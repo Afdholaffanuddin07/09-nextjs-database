@@ -31,3 +31,9 @@ Hasil dari deploy project
 
 ![Output](image/5.png)
 https://09-nextjs-database-eta.vercel.app/
+
+Soal 6
+
+Akan menampilkan sebuah grafik
+
+![Output](image/6.png)
