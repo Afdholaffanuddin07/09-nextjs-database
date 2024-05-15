@@ -37,3 +37,9 @@ Soal 6
 Akan menampilkan sebuah grafik
 
 ![Output](image/6.png)
+
+Soal 7
+
+Menampilkan dari hasil adata short
+
+![Output](image/7.png)
