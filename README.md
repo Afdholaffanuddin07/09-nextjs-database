@@ -43,3 +43,4 @@ Soal 7
 Menampilkan dari hasil adata short
 
 ![Output](image/7.png)
+
